@@ -1,4 +1,4 @@
-# pw-aula01-introducao
+# pw-fundamentos-react
 
 Sequência de aulas sobre fundamentos do React-JS
 
